@@ -23,7 +23,6 @@ A Discord bot that detects messages in different languages and reacts with the a
 - Swedish (🇸🇪)
 - Russian (🇷🇺)
 - Chinese Simplified (🇨🇳)
-- Chinese Traditional (🇹🇼)
 
 ## Requirements
 
