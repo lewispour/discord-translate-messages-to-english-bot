@@ -49,7 +49,7 @@ Run the Python script, and the bot will start detecting languages of messages se
 
 ## Contributing
 
-We encourage you to contribute to this project by adding support for more languages or improving its existing features. To get started, follow these steps:
+I encourage you to contribute to this project by adding support for more languages or improving its existing features. To get started, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your changes.
