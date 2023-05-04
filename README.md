@@ -2,6 +2,7 @@
 
 A Discord bot that detects messages in different languages and reacts with the appropriate flag emoji for each language. The bot also translates non-English messages to English and sends the translated text to the chat.
 
+<img src="https://github.com/lewispour/discord-translate-messages-to-english-bot/blob/a3a6f18d3ead5631c1f04ceef5fb979aaf8b3051/usage.gif" alt="Usage GIF" width="800">
 ## Features
 
 - Detects messages in various languages
