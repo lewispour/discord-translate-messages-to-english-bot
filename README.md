@@ -58,3 +58,5 @@ I encourage you to contribute to this project by adding support for more languag
 5. Submit a pull request with a clear description of the changes you made.
 
 Your contributions will help make the bot more versatile and useful for a wider range of Discord communities.
+
+Tested Working - 05/04/2024
